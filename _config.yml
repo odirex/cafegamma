@@ -1,6 +1,7 @@
 title: "Cafe Gamma"
 remote_theme: pmarsceill/just-the-docs
-color_scheme: "dark"search_enabled: true
+color_scheme: "dark"
+search_enabled: true
 aux_links:
     "See you at DexCon":
       - "//dexposure.com"
