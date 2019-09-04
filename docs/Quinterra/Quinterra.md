@@ -1,30 +1,40 @@
-## Quinterra – A unique campaign setting
+---
+title: Quinterra
+has_children: true
+nav_order: 2
+---
+## Quinterra
 
 ### Introduction
 
 #### The World Shells
 Isolated at the planar center of the Multiverse, the 5 world shells have neither a sun nor stars in the sky above them. An invisible barrier keeps the atmosphere from escaping out into the astral sea. A ring of glowing crystals (Shell 1) showers light and warmth on the 3 distinct layers of floating continents below (Shells 2, 3, & 4) and regulates the cycle of night & day. At the center lies the core of the planet (Shell 5), around which the upper shells orbit in varied directions. 
+
 Landmasses and clouds block the light of the ring, casting shadows on the lands below. As you travel closer to the core, putting more of the world shells between yourself and the Crystal Ring; your surroundings get progressively darker. Until you arrive at the core where no light reaches. The world shells are kept aloft by a delicate interplay of magic and planar forces. 
 
 #### Travel Between The Shells
 
 Travel is possible using a variety of airships including dirigibles and unique magical vessels. In all cases, inter-shell travel is prohibitively expensive for the average person. Most airship travel consists of military and diplomatic missions, merchant transports of very expensive goods, expeditions funded by various powerful organizations, and piracy.
+
 Airship ports are located on the sides or back ends of continents - back ends being the side furthest from the direction in which the shell orbits. Each landmass has a strong magical gravity that draws nearby object into sync with its orbit. While this makes it extremely easy to land an airship on a continent, it makes escaping the continent while flying in the direction of the orbit nearly impossible.
 The distance between the shells and the often turbulent winds between them make it impossible for an average winged creature to fly to a different shell. Any person with a parachute and a lot of luck can attempt to fall to a lower shell, but no sane person would be foolish enough to attempt it.
 
 #### Avatars
 
 An avatar is an immense and powerful being that influences the physical characteristics of its home shell and its inhabitants. The avatars are immortal, sentient forces of nature that personify the planar characteristics to which their world shell is connected. The avatars are regarded as gods by the people of the world and are revered and prayed to accordingly.
+
 They are able to take on any form they wish, though being in anything other than their natural form limits their power. Avatars travel through their dominions in their natural form, which is monumentally large, infusing the continents with the planar energies responsible for distinct geographic features. On occasion when all energy is stable and no infusion is necessary, the avatar will rest in its lair or change form and go among its people, influencing their society.
 
 #### Races
 
 The races of each shell are appropriate to their local geography (like wood elves in the forests of shell 2), but those conceived in the presence of an avatar in true form are blessed with an over-abundance of that avatar's energy. These blessed-born, while members of their race in most ways, look distinct from the rest of their race. Due to the connection between them and their avatar they often have traits of the avatar in humanoid form.
+
 "Blessed-born" is a modification to a race's standard features. One or more of the race's features is replaced with a +1 caster level bonus to spells matching the energy type of the avatar they are connected to. Work with your GM to determine which racial features to replace. (Ex: An Ignis-born human would have a +1 caster level to fire based spells and abilities, but would lose the bonus feat that humans get at 1st level.)
 
 #### Civilization
 
 Each avatar spends as much of its time near its lair as it does traveling the shell. This has led to the rise of large city-states (considered the capital cities of that shell) surrounding each lair, with the number of blessed-born in each city being disproportionately high relative to the rest of the shell. The blessed-born of these cities are often drawn toward careers dealing with the divine and arcane studies.
+
 Although each avatar influences the culture and attitudes of people in its domain, most of the avatars rarely govern their people. Each capital city has its own government, while the governing of smaller cities and towns varies from shell to shell. Some towns are vassals to the nearest capital city, while others have independent governments that are similar in ideology to other nearby towns. In either case, the laws and customs tend to be similar throughout each shell, but are often very different from those of other shells.
 
 #### Religion
@@ -34,9 +44,11 @@ The clergy of each shell preach the blessings and teachings of their local avata
 #### Magic
 
 Whether divine, arcane, psionic, supernatural, or spell-like, magic of certain types is more powerful with the domain of each avatar. In each distinct region, energy of the avatar's type acts at +1 caster level. This bonus stacks with the blessed-born bonus. The individual shell pages go into further details about which types of magic are affected and where. 
+
 If there is a large catastrophic event that threatens to disturb the balance of a shell's energies, the avatar will direct the magic of the continent to counter the disturbance, removing the +1 caster level bonus until the problem is resolved and the natural balance is restored.
 
 GM Versus Player Versus Character Knowledge
+
 What each character knows about the world at large and shells other than their home shell is between the player and GM to decide. In general, an average person knows plenty about his own shell, a fair amount about the shells directly above and below, and nearly nothing about shells 2 or more layers separate from theirs. Player characters often know a great deal more about other shells than the average person. This is often due to research, mission briefings, or personal experience - with the exception of Shell 5.
 
 #### The Dark Core
@@ -46,6 +58,7 @@ The core (Shell 5) keeps to itself behind its curtain of pure darkness. There is
 #### Planar Touchstones
 
 A planar touchstone is a small floating island that is empowered directly by a specific plane or demiplane. Planar touchstones are scattered throughout the shells that are appropriate for their plane's alignment and elemental features (ex: a Mechanus touchstone would float among shell 1 because it is lawful and good). Each touchstone contains some form of portal to its plane. Which touchstones exist and where they reside is up to the GM and depends on which planar cosmology is used in your particular campaign.
+
 Anyone may become attuned to a touchstone as per the rituals listed in the Planar Handbook. Touchstone attunement normally grants some form of magical ability and allows the planar energy to be used in enhancing spells and magical effects.
 
 #### Reference Table

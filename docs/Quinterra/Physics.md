@@ -1,3 +1,9 @@
+---
+title: Rewriting Physics
+parent: Quinterra
+has_children: false
+nav_order: 1
+---
 ### Rewriting Physics:
 
 #### Levitite:
