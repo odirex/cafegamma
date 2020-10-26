@@ -1,0 +1,89 @@
+{
+  "main": {
+    "id": "7bc983ee0463c952",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1020a8d2005d785",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fe9bfd25e56debc3",
+    "type": "split",
+    "children": [
+      {
+        "id": "e55fbd7e9f39c2d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58e6a288868a2aad",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "27db08a5bfed971d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "efdd8c07aa0e6a4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "9abab19c6e1a371d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7aa4ce8abcf7e260",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {}
+            }
+          },
+          {
+            "id": "1a13642dacb99024",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Diet Deep Dive/markuptest.md",
+    "Quinterra/Quinterra.md",
+    "Quinterra/Physics.md",
+    "test/test.md",
+    "test/test-child.md",
+    "test/test-grand-child.md"
+  ]
+}
